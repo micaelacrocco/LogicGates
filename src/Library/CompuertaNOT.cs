@@ -10,7 +10,7 @@ namespace Library
     {
         private Compuerta entrada;
 
-        public void EstablecerEntrada(Compuerta entrada)
+        public CompuertaNOT(Compuerta entrada)
         {
             this.entrada = entrada;
         }
